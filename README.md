@@ -15,7 +15,7 @@
     }
   }
 ```
-![图1](traversetree-firstpng.png)
+![图1](traversetree-first.png)
 ### 中序遍历
 1. 优先访问左子结点， 然后访问父结点，最后访问右子结点
 ```javascript
